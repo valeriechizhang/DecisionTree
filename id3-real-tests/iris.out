@@ -1,0 +1,21 @@
+petal length:0.0..2.45, 44
+ <Iris-setosa>
+petal length:2.45..10.0, 76
+ petal width:0.0..1.75, 39
+  sepal length:0.0..7.1, 38
+   sepal width:0.0..2.65, 15
+    <Iris-versicolor>
+   sepal width:2.65..10.0, 23
+    <Iris-versicolor>
+  sepal length:7.1..10.0, 1
+   <Iris-virginica>
+ petal width:1.75..10.0, 37
+  sepal width:0.0..2.65, 4
+   <Iris-virginica>
+  sepal width:2.65..10.0, 33
+   sepal length:0.0..5.95, 5
+    <Iris-virginica>
+   sepal length:5.95..10.0, 28
+    <Iris-virginica>
+
+28 of 30 (93.33%) of testing examples correctly identified

@@ -1,0 +1,5 @@
+sepal length:0..10
+sepal width:0..10
+petal length:0..10
+petal width:0..10
+class:Iris-setosa,Iris-versicolor,Iris-virginica
